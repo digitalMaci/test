@@ -3,7 +3,5 @@
  * Created by PhpStorm.
  * User: gtoma
  * Date: 2020.01.30.
- * Time: 13:58
+ * Time: 14:57
  */
-
-print "miezmár?";
