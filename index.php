@@ -7,3 +7,4 @@
  */
 
 echo "Most mi van?";
+exit;
